@@ -12,11 +12,9 @@ gsap.from('.fred', { x: 400, y: 400 });
 
 &#x20;The 2 objects in the code below are the from vars and to vars.
 
-{% code overflow="wrap" %}
 ```javascript
 gsap.fromTo('.fred', { x: 400, y: 400 }, { x: 200, y: 200 });
 ```
-{% endcode %}
 
 For best results make sure the from vars and to vars have the same properties.
 

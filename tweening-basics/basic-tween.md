@@ -2,11 +2,10 @@
 
 The basic syntax for a `gsap.to()` tween is as follows:
 
-{% code overflow="wrap" %}
 ```javascript
-gsap.to('.fred', { x: 400 }); // animates the element with a class of “fred” to an x position of 400
+// animates the element with a class of “fred” to an x position of 400
+gsap.to('.fred', { x: 400 });
 ```
-{% endcode %}
 
 If you do not specify a duration, gsap will use the default which is 0.5 seconds (500ms).
 
