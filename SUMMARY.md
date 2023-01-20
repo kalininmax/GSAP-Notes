@@ -7,4 +7,7 @@
   * [Special Property: Ease](tweening-basics/special-property-ease.md)
   * [Special Property: Stagger](tweening-basics/special-property-stagger.md)
   * [Control Tween Playback](tweening-basics/control-tween-playback.md)
-* [Timelines](timelines.md)
+* [Timelines](timelines/README.md)
+  * [Position Parameter](timelines/position-parameter.md)
+  * [Timeline Control and Labels](timelines/timeline-control-and-labels.md)
+* [FOUC](fouc.md)
