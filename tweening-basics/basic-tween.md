@@ -35,7 +35,7 @@ GSAP can animate any numeric property you throw at it.
 
 Changing values that are not CSS Transforms or opacity can cause the browser to re-do its layout of the page which in extreme situations can hinder performance. For a few tweens, it’s not the end of the world as some purists make it out to be.
 
-Links and More
+**Links and More**
 
 * [gsap.to() docs](https://greensock.com/docs/v3/GSAP/gsap.to\(\))
 * [gsap.defaults() docs](https://greensock.com/docs/v3/GSAP/gsap.defaults\(\))

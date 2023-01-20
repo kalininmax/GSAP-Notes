@@ -18,7 +18,7 @@ gsap.fromTo('.fred', { x: 400, y: 400 }, { x: 200, y: 200 });
 
 For best results make sure the from vars and to vars have the same properties.
 
-Links and More
+**Links and More**
 
 * [gsap.from() docs](https://greensock.com/docs/v3/GSAP/gsap.from\(\))
 * [gsap.fromTo() docs](https://greensock.com/docs/v3/GSAP/gsap.fromTo\(\))
